@@ -12,7 +12,7 @@ def par_o_impar(numero):
     else:
         return "impar"
 
-# Solicitar al usuario que ingrese un número
+# Solicitar al usuario que ingrese un número --- 
 num = int(input("Ingrese un número entero positivo mayor que 1: "))
 
 # Verificar si es primo, par o impar y mostrar los resultados
