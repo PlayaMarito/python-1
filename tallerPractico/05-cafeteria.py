@@ -1,3 +1,8 @@
+# Profe, este quiero que sea parte de mi sofware estrella; 
+# Para este ejercicio lo he hecho básico, pero quisiera su
+# asistencia para hacer algo super profesional, que no se 
+# limite al trámite de mesas. 
+
 # Menú de la cafetería
 menu = {
     'cafe': {'descripcion': 'Café negro', 'precio': 1.50},
